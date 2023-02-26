@@ -13,11 +13,11 @@
 
 > Latest posts from my blog.
 
+- [Run n8n with Portainer](https://joffcom.net/posts/run-n8n-with-portainer/)
 - [n8n SSL Labs A Grade](https://joffcom.net/posts/n8n-ssl-labs-a-grade/)
 - [#100DaysOfNoCode Intro](https://joffcom.net/posts/100daysofnocode/)
 - [Setting up Grafana on Ubuntu 18.04](https://joffcom.net/posts/setting-up-grafana-ubuntu/)
 - [Setting Zabbix on Ubuntu 18.04](https://joffcom.net/posts/setting-up-zabbix-on-ubuntu/)
-- [Working with Hugo](https://joffcom.net/posts/working-with-hugo/)
 -------
 
 <h2 align="left" id="joffcom-nodes">🔗 n8n Community Nodes</h2>
