@@ -4,12 +4,9 @@
   <a href="https://twitter.com/joffcom">Twitter</a>
 </p>
 
-<a href="#joffcom-title">
-  <img src="https://raw.githubusercontent.com/joffcom/github-stats-transparent/output/generated/overview.svg" alt="joffcom" align="right" />
-</a>
-
 - 👨🏼‍💻 I'm currently working at [n8n.io](https://n8n.io) as a Community Engineer
 - 📚 I'm currently learning more about GraphQL, Flutter and GitHub Actions
+- 🌱 I'm fairly active in the n8n, Baserow and Lowdefy communities
 
 -------
 <h2 align="left" id="joffcom-blog">📖 Latest Blog Posts</h2>
@@ -23,7 +20,7 @@
 - [Working with Hugo](https://joffcom.net/posts/working-with-hugo/)
 -------
 
-<h2 align="left" id="joffcom-nodes">n8n Community Nodes</h2>
+<h2 align="left" id="joffcom-nodes">🔗 n8n Community Nodes</h2>
 
 > Community nodes published for n8n
 
@@ -52,6 +49,11 @@
 ![Docker](https://img.shields.io/badge/docker-%23a9a9b3.svg?style=for-the-badge&logo=docker&logoColor=black)
 ![Unity](https://img.shields.io/badge/unity-%23a9a9b3.svg?style=for-the-badge&logo=unity&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%23a9a9b3.svg?style=for-the-badge&logo=python&logoColor=black)
+![Notion](https://img.shields.io/badge/notion-%23a9a9b3.svg?style=for-the-badge&logo=notion&logoColor=black)
+![Slack](https://img.shields.io/badge/slack-%23a9a9b3.svg?style=for-the-badge&logo=slack&logoColor=black)
+![Zendesk](https://img.shields.io/badge/zendesk-%23a9a9b3.svg?style=for-the-badge&logo=zendesk&logoColor=black)
+![Hugo](https://img.shields.io/badge/hugo-%23a9a9b3.svg?style=for-the-badge&logo=hugo&logoColor=black)
+![VSCode](https://img.shields.io/badge/vscode-%23a9a9b3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 -------
 
@@ -63,3 +65,14 @@
 <a href="https://www.linkedin.com/in/jonathanbennetts/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-jon-informational"></a>
 <a href="mailto:jon@joffcom.net	"><img src="https://img.shields.io/badge/Email-jon%40joffcom.net-orange"></a>
 <a href="https://joffcom.net" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-joffcom.net-red"></a>
+
+-------
+
+<h2 align="left" id="joffcom-contact">📊 Stats</h2>
+
+<a href="#joffcom-title">
+  <img src="https://raw.githubusercontent.com/joffcom/github-stats-transparent/output/generated/overview.svg" alt="joffcom" />
+</a>
+<a href="#joffcom-title">
+  <img src="https://raw.githubusercontent.com/joffcom/github-stats-transparent/output/generated/languages.svg" alt="joffcom" />
+</a>
