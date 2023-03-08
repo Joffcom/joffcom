@@ -31,6 +31,7 @@
 - [PaperCut Health API](https://www.npmjs.com/package/n8n-nodes-papercut-health-api)
 - [OSTicket](https://www.npmjs.com/package/n8n-nodes-osticket)
 - [Baserow Trigger](https://www.npmjs.com/package/n8n-nodes-baserow-trigger)
+- [Plausible](https://www.npmjs.com/package/n8n-nodes-plausible)
 
 -------
 <h2 align="left" id="joffcom-tech">🥰 Favorite Things</h2>
