@@ -24,14 +24,17 @@
 
 > Community nodes published for n8n
 
-- [Slack incoming webhook](https://www.npmjs.com/package/n8n-nodes-slack-incoming-webhook)
-- [Form Trigger](https://www.npmjs.com/package/n8n-nodes-form-trigger)
-- [RSS Feed Trigger](https://www.npmjs.com/package/n8n-nodes-rss-feed-trigger)
-- [LogSnag](https://www.npmjs.com/package/n8n-nodes-logsnag)
-- [PaperCut Health API](https://www.npmjs.com/package/n8n-nodes-papercut-health-api)
-- [OSTicket](https://www.npmjs.com/package/n8n-nodes-osticket)
-- [Baserow Trigger](https://www.npmjs.com/package/n8n-nodes-baserow-trigger)
+- [HookDeck](https://www.npmjs.com/package/n8n-nodes-hookdeck)
+- [Doppler](https://www.npmjs.com/package/n8n-nodes-doppler)
 - [Plausible](https://www.npmjs.com/package/n8n-nodes-plausible)
+- [Baserow Trigger](https://www.npmjs.com/package/n8n-nodes-baserow-trigger)
+- [OSTicket](https://www.npmjs.com/package/n8n-nodes-osticket)
+- [PaperCut Health API](https://www.npmjs.com/package/n8n-nodes-papercut-health-api)
+- [LogSnag](https://www.npmjs.com/package/n8n-nodes-logsnag)
+- [RSS Feed Trigger](https://www.npmjs.com/package/n8n-nodes-rss-feed-trigger)
+- [Form Trigger](https://www.npmjs.com/package/n8n-nodes-form-trigger)
+- [Slack incoming webhook](https://www.npmjs.com/package/n8n-nodes-slack-incoming-webhook)
+
 
 -------
 <h2 align="left" id="joffcom-tech">🥰 Favorite Things</h2>
