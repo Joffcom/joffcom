@@ -24,6 +24,7 @@
 
 > Community nodes published for n8n
 
+- [JWT](https://www.npmjs.com/package/n8n-nodes-jwt)
 - [HookDeck](https://www.npmjs.com/package/n8n-nodes-hookdeck)
 - [Doppler](https://www.npmjs.com/package/n8n-nodes-doppler)
 - [Plausible](https://www.npmjs.com/package/n8n-nodes-plausible)
