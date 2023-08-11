@@ -24,6 +24,7 @@
 
 > Community nodes published for n8n
 
+- [Badges](https://www.npmjs.com/package/n8n-nodes-badges)
 - [JWT](https://www.npmjs.com/package/n8n-nodes-jwt)
 - [HookDeck](https://www.npmjs.com/package/n8n-nodes-hookdeck)
 - [Doppler](https://www.npmjs.com/package/n8n-nodes-doppler)
