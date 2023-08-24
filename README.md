@@ -24,6 +24,7 @@
 
 > Community nodes published for n8n
 
+- [Copy AI](https://www.npmjs.com/package/n8n-nodes-copyai)
 - [Digital Ocean](https://www.npmjs.com/package/n8n-nodes-digital-ocean)
 - [Badges](https://www.npmjs.com/package/n8n-nodes-badges)
 - [JWT](https://www.npmjs.com/package/n8n-nodes-jwt)
